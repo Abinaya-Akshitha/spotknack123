@@ -1,0 +1,147 @@
+.Opportunities {
+  width: 100%;
+  height: 100%;
+  flex-grow: 0;
+  padding: 38px 40px 238px 45px;
+  background-color: #f8f8f8;
+}
+.Spotknack-Black-Logo-1 {
+  width: 300px;
+  height: 41.7px;
+  margin: 7px 15px 88.3px 0;
+  background: none;
+}
+.Opportunities1 {
+  width: 432px;
+  height: 81px;
+  margin: 88.3px 98px 16px 35px;
+  font-family: Poppins;
+  font-size: 60px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.6px;
+  text-align: left;
+  color: #000;
+}
+.Rectangle-21 {
+  width: 220px;
+  height: 220px;
+  flex-grow: 0;
+  margin: 17px 30px 30px 65px;
+  padding: 65px 30px 68px 26px;
+  border-radius: 15px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  background-color: #fff;
+}
+
+
+.Rectangle-22 {
+  width: 220px;
+  height: 220px;
+  flex-grow: 0;
+  margin: 17px 30px 30px 15px;
+  padding: 65px 30px 68px 31px;
+  border-radius: 15px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  background-color: #fff;
+}
+.Home {
+  width: 56px;
+  height: 27px;
+  margin: 16px 30px 17px 65px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.6px;
+  text-align: center;
+  color: #34b2fe;
+}
+.Oppo {
+  width: 132px;
+  height: 27px;
+  margin: 16px 32px 17px 30px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.6px;
+  text-align: center;
+  color: #34b2fe;
+}
+.Rectangle-23 {
+  width: 220px;
+  height: 220px;
+  flex-grow: 0;
+  margin: 30px 30px 0 65px;
+  padding: 65px 83px 68px 84px;
+  border-radius: 15px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  background-color: #fff;
+}
+.linkedin-1-1 {
+  width: 50px;
+  height: 50px;
+  flex-grow: 0;
+  margin: 0 59px 10px 60px;
+}
+.Rectangle-24 {
+  width: 220px;
+  height: 220px;
+  flex-grow: 0;
+  margin: 17px 30px 30px;
+  padding: 65px 24px 68px;
+ border-radius: 15px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  background-color: #fff;
+}
+.words {
+  width: 169px;
+  height: 27px;
+  flex-grow: 0;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.6px;
+  text-align: center;
+  color: #000;
+}
+.m{
+  margin: 0 0 0 30px ;
+}
+.t{
+  margin: 0 0 0 46px ;
+}
+.g{
+  margin: 0 0 0 10px ;
+}
+.r{
+  margin: 0 0 0 13px ;
+}
+.b{
+  margin: 0 0 0 60px ;
+}
+.yt{
+   width: 126px;
+  height: 25.9px;
+  flex-grow: 0;
+  margin: 0 24px 22.1px;
+}
+.y{
+  margin: 0 0 0 10px
+}
+
+.amazon{
+  text-align: center;
+  margin: 0 42px 10px 41px;
+  border-radius: 5px;
+}
